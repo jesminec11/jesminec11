@@ -83,7 +83,7 @@ Bringing **3+ years in Data Science + 13 years of engineering experience**, I sp
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesminec-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesminec)
-[![GitHub](https://img.shields.io/badge/GitHub-jesminec-181717?style=flat&logo=github&logoColor=white)](https://github.com/jesminec)
+[![GitHub](https://img.shields.io/badge/GitHub-jesminec11-181717?style=flat&logo=github&logoColor=white)](https://github.com/jesminec11)
 [![Portfolio 1](https://img.shields.io/badge/Portfolio-1-4CAF50?style=flat)](https://eportfolio.mygreatlearning.com/jesmine-chaudhuri)
 [![Portfolio 2](https://img.shields.io/badge/Portfolio-2-4CAF50?style=flat)](https://eportfolio.mygreatlearning.com/jesmine-chaudhuri2)
 
